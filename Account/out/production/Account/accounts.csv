@@ -1,0 +1,9 @@
+account,firstname,lastname,email,role
+account1,Firstname1,Lastname1,email1@magarsus.com,Role1
+account1,Firstname1,Lastname1,email1@magarsus.com,Role2
+account2,Firstname1,Lastname1,email1@magarsus.com,Role2
+account3,Firstname2,Lastname2,email3@magarsus.com,Role3
+account3,Firstname2,Lastname2,email3@magarsus.com,Role4
+account4,Firstname2,Lastname2,email4@magarsus.com,Role5
+account4,Firstname2,Lastname2,email4@magarsus.com,Role4
+account4,Firstname2,Lastname2,email4@magarsus.com,Role3
